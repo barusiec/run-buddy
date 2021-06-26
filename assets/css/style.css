@@ -19,6 +19,11 @@ header {
     margin: 0;
     display: inline;
   }
+
+  header h2 {
+    color:thistle;
+    text-align: center;
+  }
   header a {
       text-decoration: none;
     color: #fce138;
