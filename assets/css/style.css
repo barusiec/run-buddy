@@ -8,9 +8,8 @@ body {
     font-family: Helvetica, Arial, sans-serif;
   }
 header {
-      /* apply styles to <header> */
-    padding: 20px 35px;
-    background-color: #39a6b2;
+  padding: 20px 35px;
+  background-color: #39a6b2;
   }
   header h1 {
     font-weight: bold;
