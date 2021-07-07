@@ -11,6 +11,7 @@ A website that offers fitness training services.
 https://barusiec.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by Bruce Rusiecki
 
+Made with ❤️ by Bruce Rusiecki
+=======
 ### ©️2021 Run Buddy, Inc 
